@@ -1,0 +1,35 @@
+{
+  "public": {
+    "default": {
+      "commerce-core-endpoint": "https://na1-sandbox.api.commerce.adobe.com/D7jv2kn3E1o6CzheGc8Kr9/graphql",
+      "commerce-endpoint": "https://na1-sandbox.api.commerce.adobe.com/YBT6sQT7w4GdvPVAdpUhmU/graphql",
+      "headers": {
+        "all": {
+          "Store": "default"
+        },
+        "cs": {
+          "ac-channel-id": "85efd72c-311a-4dec-98e2-9d92a9450836",
+          "ac-environment-id": "YBT6sQT7w4GdvPVAdpUhmU",
+          "ac-price-book-id": "east_coast_inc",
+          "ac-scope-locale": "en-US"
+        }
+      },
+      "analytics": {
+        "base-currency-code": "USD",
+        "environment": "Production",
+        "store-id": 1,
+        "store-name": "ACO Store",
+        "store-url": "https://main--boilerplate-aco--adobe-commerce.aem.live",
+        "store-view-id": 1,
+        "store-view-name": "Default Store View",
+        "website-id": 1,
+        "website-name": "Main Website"
+      },
+      "plugins": {
+        "picker": {
+          "rootCategory": "2"
+        }
+      }
+    }
+  }
+}
